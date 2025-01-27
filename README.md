@@ -21,3 +21,23 @@ The project focuses on analyzing the Global Terrorism Database (GTD) to derive i
   - Total Attacks Over Time: A time-series graph showcasing a spike in terrorist activities post-2006, peaking in 2014.
 
   ![Total attacks over time.png](https://github.com/jeetswami/Tableau-Project/blob/85c51722d037e2691bdb42de8f61b9edb53cbe96/Total%20attacks%20over%20time.png)
+
+  - Regional Analysis: A bar graph highlighting the Middle East and North Africa as the most affected regions, with Australasia and Oceania being least impacted.
+  
+  ![Regional Analysis](https://github.com/jeetswami/Tableau-Project/blob/d8d6b55d53d2385c1ce183a9d87e7594770091eb/Regional%20Analysis.png)
+
+  - Terrorism Success Rates: Regional differences in the effectiveness of terrorist strikes, with a focus on Middle East and South Asia.
+
+  ![Terrorism Success Rates](https://github.com/jeetswami/Tableau-Project/blob/d8d6b55d53d2385c1ce183a9d87e7594770091eb/Terrorism%20Success%20Rate.png)
+
+  - Total Deaths by Country: A bubble chart representing the human cost of terrorism, with Iraq and Afghanistan bearing the highest death tolls.
+
+  ![Total Deaths by Country](https://github.com/jeetswami/Tableau-Project/blob/d8d6b55d53d2385c1ce183a9d87e7594770091eb/Total%20Death%20per%20country.png)
+
+  - Active Terrorist Groups: Insights into the most lethal groups, such as the Taliban and ISIL.
+
+  ![Active Terrorist Groups](https://github.com/jeetswami/Tableau-Project/blob/d8d6b55d53d2385c1ce183a9d87e7594770091eb/Most%20Active%20Terrorist%20Organizations.png)
+
+  - Attack Types: Analysis of methods, with "Bombing/Explosion" being the most common.
+
+  ![Attack Types](https://github.com/jeetswami/Tableau-Project/blob/d8d6b55d53d2385c1ce183a9d87e7594770091eb/Method%20of%20Attack.png)
