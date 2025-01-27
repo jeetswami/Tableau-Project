@@ -41,3 +41,11 @@ The project focuses on analyzing the Global Terrorism Database (GTD) to derive i
   - Attack Types: Analysis of methods, with "Bombing/Explosion" being the most common.
 
   ![Attack Types](https://github.com/jeetswami/Tableau-Project/blob/d8d6b55d53d2385c1ce183a9d87e7594770091eb/Method%20of%20Attack.png)
+
+3) Analysis:
+
+The analysis of global terrorism trends from 1970 to 2017 revealed significant insights. A sharp increase in terrorist activities was observed after 2006, peaking in 2014. The Middle East and North Africa emerged as the most affected regions, while Australasia and Oceania experienced the fewest attacks. Iraq was identified as the most impacted country, with 24,636 attacks and a death toll of 78,589, followed by Afghanistan. Bombing and explosions were the most commonly employed attack methods, with armed assaults following closely. Among terrorist groups, the Taliban and ISIL caused the most casualties. These findings underscore the importance of understanding regional and temporal patterns to inform and develop targeted security strategies.
+
+4) Dashboard:
+
+![](https://github.com/jeetswami/Tableau-Project/blob/eb279c6596440ecd0c025b9952d389388eec179c/Dashboard.png)
