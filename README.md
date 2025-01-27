@@ -20,4 +20,4 @@ The project focuses on analyzing the Global Terrorism Database (GTD) to derive i
 2) Data Visualization:
   - Total Attacks Over Time: A time-series graph showcasing a spike in terrorist activities post-2006, peaking in 2014.
 
-  [Total Attacks Over Time] ![Total attacks over time.png]
+  ![Total attacks over time.png](https://github.com/jeetswami/Tableau-Project/blob/85c51722d037e2691bdb42de8f61b9edb53cbe96/Total%20attacks%20over%20time.png)
